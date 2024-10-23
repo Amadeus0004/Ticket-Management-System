@@ -1,0 +1,4 @@
+1*Taylor Swift*Wembley Stadium*2024-11-15*19:00*50000*120.50
+1*Ed Sheeran*Madison Square Garden*2024-12-01*20:00*30000*150.00
+2*Team A*Team B*Central Sports Arena*2024-11-10*18:00*8000*50.00
+2*Team C*Team D*National Stadium*2024-11-17*19:30*10000*75.00
