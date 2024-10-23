@@ -46,7 +46,7 @@ The program imports data from a file (`dailytickets.txt`), which includes detail
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/ticket-management-system.git
-cd ticket-management-system
+   cd ticket-management-system
 
 Running the Program
 You can compile and run the main program using the following commands:
@@ -54,7 +54,7 @@ You can compile and run the main program using the following commands:
 1. Compile the project
 2. Run the main application:
    ```bash
-  java control.EventProcessing
+    java control.EventProcessing
 
 ### Usage
 
